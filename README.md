@@ -1,1 +1,6 @@
 # Ascenda-test
+This is my solutions for the exercise from Ascenda and to solve this exercise, I choose NodeJS to complete the task.
+
+To solve the problem, firstly, I fetched the API in the exercise to get the offers and saved it in input.json file. Next, I ask user to input the date, check the format and then check which offer's day is valid with the input. After that, I will filter which category is not Hotel (which values is 3) and filter the valid items which has the same category by choosing the offer which days is closest to the input. The next step I did is sorting the filtered list to get the first two offers that closest to the input date and finally, I will filter to choose the closest merchants if the offer has 2 or more merchant by sorting based on the distance from lower to higher and get the first merchant. With the result, I write it in the output.json file
+
+In order to run the program, you will need to pull code, check if your laptop has already installed NodeJS, open the terminal and enter "node app.js" to run the program. 
