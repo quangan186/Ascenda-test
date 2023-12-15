@@ -1,0 +1,19 @@
+{
+  "name": "ascenda-test",
+  "version": "1.0.0",
+  "description": "Ascenda test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quangan186/Ascenda-test.git"
+  },
+  "author": "Bui Quang An",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quangan186/Ascenda-test/issues"
+  },
+  "homepage": "https://github.com/quangan186/Ascenda-test#readme"
+}
